@@ -3,5 +3,7 @@ Algorithms practiced in Java along with questions and complete solutions
 
 Current Algorithm:
 
-Recursion
+Recursion -> Refer recursion.md
+
+Other problems -> Refer problems.md
 
