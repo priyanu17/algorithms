@@ -4,9 +4,8 @@ class recursion1{
 
     public static int sumOfNumbers(int num){
         //base condition
-        if (num == 1){
+        if (num == 1)
             return 1;
-        }
         return num + sumOfNumbers(num - 1);
     }
 

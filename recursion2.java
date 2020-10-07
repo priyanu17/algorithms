@@ -3,12 +3,9 @@ import java.util.Scanner;
 public class recursion2 {
 
     public static int power(int base, int exponent){
-
-        
         //base condition
-        if (exponent == 0){
+        if (exponent == 0)
             return 1;
-        }
         return base * power(base, exponent-1);
     }
     public static void main(String ar [] ){
