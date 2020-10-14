@@ -2,7 +2,7 @@ package Recursion;
 
 import java.util.Scanner;
 
-public class recursion3 {
+public class recursion03 {
     static int stepCount = 0;
 
     public static long fastPower(int base, int exponent){

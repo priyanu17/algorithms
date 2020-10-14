@@ -2,7 +2,7 @@ package Recursion;
 
 import java.util.Scanner;
 
-class recursion1{
+class recursion01{
 
     public static int sumOfNumbers(int num){
         //base condition

@@ -1,8 +1,8 @@
-package Problems;
+package Matrices;
 
 import java.util.Scanner;
 
-public class problem2 {
+public class matrix02 {
     public static void main(String ar []){
 
         System.out.println("\nFind sum of two matrices\n");

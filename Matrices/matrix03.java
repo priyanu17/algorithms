@@ -1,8 +1,8 @@
-package Problems;
+package Matrices;
 
 import java.util.Scanner;
 
-public class problem3 {
+public class matrix03 {
     public static void main(String ar [] ){
         System.out.println("\nFind product of two matrices\n");
         Scanner scan = new Scanner(System.in);

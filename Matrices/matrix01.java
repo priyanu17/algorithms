@@ -1,8 +1,8 @@
-package Problems; 
+package Matrices; 
 
 import java.util.Scanner;
 
-public class problem1 {
+public class matrix01 {
     public static void main(String ar [] ){
 
         System.out.println("\nFind sum of all elements in a matrix\n");

@@ -2,7 +2,7 @@ package Recursion;
 
 import java.util.Scanner;
 
-public class recursion4 {
+public class recursion04 {
 
     public static int findPaths(int rows, int columns){
         //base condition

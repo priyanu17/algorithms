@@ -2,7 +2,7 @@ package Recursion;
 
 import java.util.Scanner;
 
-public class recursion2 {
+public class recursion02 {
 
     public static int power(int base, int exponent){
         //base condition
