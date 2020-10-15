@@ -7,3 +7,4 @@ recursion.md
 
 matrices.md
 
+sorting.md
